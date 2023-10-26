@@ -29,7 +29,9 @@ Isso executará o código e gerará um arquivo "spline.pdf" contendo o gráfico 
 
 Abra o arquivo "spline.pdf" para visualizar o gráfico gerado. Ele mostrará as Splines Cúbicas que interpolam os pontos de dados originais.
 
-[Visualize o Gráfico](spline.pdf)
+![spline](https://github.com/rafaelpavao/SplineCubico/assets/93341589/b937d6a0-af27-46eb-be92-f8115bda0f47)
+
+[Visualize o Gráfico em PDF](spline.pdf)
 
 ## Explicação do Código
 
